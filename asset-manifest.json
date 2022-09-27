@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://faizanhabib.github.io/csb-yts9ys/static/css/main.562ceb35.chunk.css",
+    "main.js": "https://faizanhabib.github.io/csb-yts9ys/static/js/main.cd7bf69e.chunk.js",
+    "main.js.map": "https://faizanhabib.github.io/csb-yts9ys/static/js/main.cd7bf69e.chunk.js.map",
+    "runtime-main.js": "https://faizanhabib.github.io/csb-yts9ys/static/js/runtime-main.460fce48.js",
+    "runtime-main.js.map": "https://faizanhabib.github.io/csb-yts9ys/static/js/runtime-main.460fce48.js.map",
+    "static/js/2.168fc0c4.chunk.js": "https://faizanhabib.github.io/csb-yts9ys/static/js/2.168fc0c4.chunk.js",
+    "static/js/2.168fc0c4.chunk.js.map": "https://faizanhabib.github.io/csb-yts9ys/static/js/2.168fc0c4.chunk.js.map",
+    "index.html": "https://faizanhabib.github.io/csb-yts9ys/index.html",
+    "static/css/main.562ceb35.chunk.css.map": "https://faizanhabib.github.io/csb-yts9ys/static/css/main.562ceb35.chunk.css.map",
+    "static/js/2.168fc0c4.chunk.js.LICENSE.txt": "https://faizanhabib.github.io/csb-yts9ys/static/js/2.168fc0c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460fce48.js",
+    "static/js/2.168fc0c4.chunk.js",
+    "static/css/main.562ceb35.chunk.css",
+    "static/js/main.cd7bf69e.chunk.js"
+  ]
+}
